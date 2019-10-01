@@ -1,5 +1,7 @@
 using System;
 using Xunit;
+using HelloMVC.Controllers;
+using Microsoft.AspNetCore.Mvc;
 
 namespace HelloMVC.Tests
 {
